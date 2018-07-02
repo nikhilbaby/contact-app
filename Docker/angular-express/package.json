@@ -1,0 +1,21 @@
+{
+  "name": "fullcontact-sample",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build --prod",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "ng2-toastr": "^4.1.2",
+    "ng4-loading-spinner": "^1.1.3"
+  }
+}
